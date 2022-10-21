@@ -6,7 +6,7 @@ I like lerning new technologies, I want to grow as a specialist.
 
 <h2>Contacts</h2>
 <p>
-<a href="https://github.com/remowilliamsss/remowilliamsss">
+<a href="https://github.com/remowilliamsss/">
     <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 <a/>
 <a href="https://www.linkedin.com/in/viktor-egorov/">
