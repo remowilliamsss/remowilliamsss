@@ -1,6 +1,6 @@
 <h1>Java Developer</h1>
 <p>
-I like lerning new technologies, I want to grow as a specialist.
+I like learning new technologies, I want to grow as a specialist.
 <br>
 📍 Batumi, Georgia
 
