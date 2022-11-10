@@ -22,7 +22,7 @@ I like learning new technologies, I want to grow as a specialist.
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <p>
-📫 How to reach me: <a href='mailto:viktor.egorovvv@gmail.com'>viktor.egorovvv@gmail.com</a>
+📫 How to reach me: <a href='mailto:viktor.egorov.java@gmail.com'>viktor.egorov.java@gmail.com</a>
 <p>
 
 ## 🛠 Technical Stack
