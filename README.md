@@ -1,9 +1,11 @@
 <h1>Java Developer</h1>
 <p>
-📍 St. Petersburg, Russia
+I like learning new technologies, I want to work in a team and grow as a specialist.
 
 <h2>Contacts</h2>
 <p>
+📍 St. Petersburg, Russia
+<br>
 <a href="https://github.com/remowilliamsss/">
     <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 <a/>
