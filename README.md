@@ -2,7 +2,7 @@
 <p>
 I like learning new technologies, I want to grow as a specialist.
 <br>
-📍 Batumi, Georgia
+📍 St. Petersburg, Russia
 
 <h2>Contacts</h2>
 <p>
