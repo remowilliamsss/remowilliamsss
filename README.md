@@ -6,6 +6,7 @@ I like learning new technologies, I want to work in a team and grow as a special
 <p>
 📍 St. Petersburg, Russia
 <br>
+<br>
 <a href="https://github.com/remowilliamsss/">
     <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
 <a/>
