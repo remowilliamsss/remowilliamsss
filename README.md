@@ -1,7 +1,5 @@
 <h1>Java Developer</h1>
 <p>
-I like learning new technologies, I want to grow as a specialist.
-<br>
 📍 St. Petersburg, Russia
 
 <h2>Contacts</h2>
